@@ -1,5 +1,5 @@
 {
-  "name": "eth-json-rpc-middleware",
+  "name": "@portis/eth-json-rpc-middleware",
   "version": "4.1.2",
   "main": "block-ref.js",
   "directories": {
